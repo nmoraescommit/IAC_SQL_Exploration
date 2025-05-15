@@ -1,5 +1,15 @@
+-- Which states had the most recommendations?
+SELECT 
+    a.state,
+    COUNT(*) AS total_recommendations
+FROM rec r
+INNER JOIN assess a ON r.id = a.id
+WHERE a.state IS NOT NULL
+GROUP BY a.state
+ORDER BY total_recommendations DESC
+LIMIT 10;
+
 -- Which state implemented the greatest percentage of recommendations made?
--- Top 10 states by implementation percentage with more details
 
 WITH state_counts AS (
     SELECT
