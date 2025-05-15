@@ -39,6 +39,6 @@ I would like to acknowledge Professors Julien Brun and Greg Janée, as well as A
 
 *Data Source Citations*
 
-"IAC Database." U.S. Department of Energy Industrial Assessment Centers, 15 May 2025, iac.university/download.
-NAICS Association. "North American Industry Classification System Manual." 2022 NAICS Codes, NAICS Association, 2022, www.naics.com/search/.
-NAICS Association. "NAICS to SIC Crosswalk in Excel Format with Short Descriptions." 2022 NAICS and SIC Codes, NAICS Association, 2022, www.naics.com/naics-to-sic-crosswalk-2/.
+- "IAC Database." U.S. Department of Energy Industrial Assessment Centers, 15 May 2025, iac.university/download.
+- NAICS Association. "North American Industry Classification System Manual." 2022 NAICS Codes, NAICS Association, 2022, www.naics.com/search/.
+- NAICS Association. "NAICS to SIC Crosswalk in Excel Format with Short Descriptions." 2022 NAICS and SIC Codes, NAICS Association, 2022, www.naics.com/naics-to-sic-crosswalk-2/.
