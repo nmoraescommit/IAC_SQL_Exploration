@@ -1,7 +1,7 @@
 # Industrial Assessment Center (IAC) Data: Cleaning, Integrating, & Exploration
 
 ### Description
-The purpose of this repository is to house the culmination of the UCSB [EDS 213](https://bren.ucsb.edu/courses/eds-213) Discussion project. For this project, I wanted to gain a better understanding of IAC data. The Industrial Assessments Center conducts audits to small and medium sized US industrial plants - and shares a file of it's [assessments and recommendations](https://iac.university). I wanted to explore the relationship between these two outputs as well as the [sic/naics](https://www.naics.com/search/) codes.
+The purpose of this repository is to house the culmination of the UCSB [EDS 213](https://bren.ucsb.edu/courses/eds-213) Discussion project. For this project, I wanted to gain a better understanding of IAC data. The Industrial Assessments Center conducts audits to small and medium sized US industrial plants - and shares a file of it's [assessments and recommendations](https://iac.university). I wanted to explore the relationship between these two outputs as well as the [sic/naics](https://www.naics.com/search/) codes. In this repo, you will be able to reproduce the cleaning, querying, and visualization.
 
 ### Repository Structure
 ```
